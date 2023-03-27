@@ -1,0 +1,4 @@
+name: ChestGui
+version: '${project.version}'
+main: com.aix0.chestgui.ChestGui
+api-version: 1.19

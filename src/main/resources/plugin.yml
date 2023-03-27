@@ -1,0 +1,16 @@
+name: Chat
+version: '${project.version}'
+main: com.aix0.chat.Chat
+api-version: 1.19
+
+
+commands:
+  chat:
+
+
+permissions:
+  chat:
+    on:
+    off:
+    clear:
+    bypass:

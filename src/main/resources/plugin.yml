@@ -1,0 +1,4 @@
+name: CustomCrafting
+version: '${project.version}'
+main: com.aix0.customcrafting.CustomCrafting
+api-version: 1.19

@@ -1,0 +1,15 @@
+name: Home
+version: '${project.version}'
+main: com.aix0.home.Home
+api-version: 1.19
+
+
+commands:
+  sethome:
+  home:
+
+permissions:
+  home:
+    sethome:
+    teleport:
+
